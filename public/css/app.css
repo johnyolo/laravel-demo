@@ -1,0 +1,39 @@
+/* Main title */
+.title {
+    font-size: 50px;
+}
+
+/* Carousel */
+.carousel-control {
+    background-image: none !important;
+    filter: none !important;
+    color:black !important;
+}
+
+.carousel-content {
+    display: block;
+    text-align: center;
+}
+
+/* Character attributes table */
+.table-attributes {
+    /*width: 70%;*/
+    /*margin-left: 15%;*/
+    font-size: 1.8rem;
+}
+
+.table-attributes td.circle a{
+    border-radius: 25px;
+    background-color: #337ab7;
+    /*font-weight: bold;*/
+    color: white;
+}
+
+/* Images */
+.img-race {
+    height: 600px !important;
+}
+
+.active a{
+    color: white !important;
+}
